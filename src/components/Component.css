@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+.body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 150px;
+}
+.containerLeft{
+    margin: 10px 100px;
+}
+.container{
+    background-color: rgb(28, 29, 32);
+    height: 58vh;
+    border-radius: 20px;
+    margin: 10px 100px;
+    width: 25%;
+}
+h6{
+    font-size: 130%;
+    color: blue;
+}
+h1{
+    font-size: 450%;
+}
+p{
+    font-size: 80%;
+}
+
